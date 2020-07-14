@@ -31,8 +31,8 @@ body {
 
 button {
 	height: 80px;
-	background-color: gray;
-	border: 1px solid black;
+	background-color: white;
+	border: 1px solid brown;
 	font-size: 32px;
 	color: #fff;
 	width: 25%;
@@ -44,15 +44,15 @@ button {
 }
 
 .operator, .equal-sign {
-	background-color: orange;
+	background-color: yellow;
 }
 
 button:hover {
-	background-color: darkgray;
+	background-color: darkblue;
 }
 
 .operator:hover, .equal-sign:hover {
-	background-color: darkorange;
+	background-color: brown;
 }
 
 .container {
