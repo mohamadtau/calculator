@@ -1,5 +1,5 @@
 body {
-     background: #FF6A00;
+     background: #FFFFFF;
 }
 
 .calculator {
@@ -44,7 +44,7 @@ button {
 }
 
 .operator, .equal-sign {
-	background-color: yellow;
+	background-color: orange;
 }
 
 button:hover {
